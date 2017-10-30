@@ -1,0 +1,3 @@
+First name: $person.firstName </br>
+Last name: $person.lastName </br>
+Sex: $person.sex </br>
